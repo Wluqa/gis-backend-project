@@ -1,0 +1,6 @@
+Django>=5.2            # Web-фреймворк
+djangorestframework    # Django REST Framework
+django-rest-framework-gis  # GeoJSON сериализаторы (GeoDjango + DRF)
+django-cors-headers    # CORS-заголовки (разрешение запросов из других доменов)
+psycopg2-binary        # PostgreSQL драйвер
+django-filter          # (необязательно) фильтрация запросов
